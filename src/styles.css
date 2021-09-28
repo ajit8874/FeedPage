@@ -1,0 +1,17 @@
+.App {
+    width: 100%;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .btn-body button {
+    margin: 0 3rem;
+  }
